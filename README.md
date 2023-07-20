@@ -1,8 +1,8 @@
-Introduction
+INDTRODUCTION
 
 Welcome to the Space Y Data Analysis project! In this repository, we explore the viability of the new company Space Y to compete with Space X. We employ machine learning models, web scraping, and data visualization techniques to gain insights into launch cost dynamics, predict successful landings, and compare the performance of Space Y with the established giant, Space X.
 
-Objective
+OBJECTIVE
 
 The primary objective of this project is to assess Space Y's competitiveness with Space X in the space exploration market. We focus on the following key aspects:
 
@@ -12,7 +12,7 @@ Data Collection: We leverage web scraping techniques and the SpaceX API to gathe
 
 Data Visualization: Data visualization is a crucial tool in understanding relationships and trends. We use SQL queries and Matplotlib to create scatterplots, line charts, and bar charts that enable us to compare and analyze the collected data effectively.
 
-Methodology
+METHODOLOGY
 
 Data Collection: We utilize web scraping techniques to gather historical launch cost data from various space missions, including Space X and other competitors. Additionally, we access the SpaceX API to obtain data on successful and unsuccessful landings.
 
